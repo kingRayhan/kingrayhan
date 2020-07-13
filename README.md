@@ -14,8 +14,17 @@ Typically I love to work with Graphql and Reactjs.
 
 ```js
 {
-  "frontend" : ["Nextjs", "React", "Gatsby", "Vue", "Svelte", ...more],
-  "backend"  : ["Nestjs", "Express", "Laravel", ...more],
-  "ui"       : ["Material-ui", "Styled-components", "Tailwind.css", ...more]
+  "frontend"   : ["Nextjs", "React", "Gatsby", "Vue", "Svelte", ...more],
+  "mobile-app" : ["React Native", "Flutter"]
+  "backend"    : ["Nestjs", "Express", "Laravel", "Adonisjs", "Django", "Flask"...more],
+  "cms"        : ["Ghost", "WordPress", "Drupal", "Prestashop", "Magento", "kirby", "Strapi", "Contentful", "Shopify", "Netlify-cms"],
+  "dbms"       : ["Postgres", "MySQL", "Sqlite", "MongoDB", "Array 😂"],
+  "dbms-orm"   : ["Prisma", "Mongoose", "Typegoose", "TypeORM", "Sequilize", "knex"]
+  "languages"  : ["Dart", "Java", "Python", "Typescript", "Javascript", "php", "C", "C++", "Ada"],
+  "ui"         : ["Material-ui", "Styled-components", "Tailwind.css", ...more]
 }
+```
+
+```
+readme: v0.1.1
 ```
