@@ -31,7 +31,11 @@ Typically I love to work with Graphql and Reactjs.
 ```js
 {
    "quick-crud"          : "https://github.com/graph-land/quick-crud",
-   "graphql-placeholder" : "https://graphqlplaceholder.com"
+   "graphql-placeholder" : "https://graphqlplaceholder.com",
+   "bnnum"               : "https://www.npmjs.com/package/bnnum",
+   "LineProgressbar"     : "https://kingrayhan.github.io/LineProgressbar/data-attrs-demo.html",
+   "react-tabs"          : "https://www.npmjs.com/package/reactjs-tab",
+   "gourl"               : "https://www.npmjs.com/package/gourl"
 }
 ```
 
