@@ -25,7 +25,16 @@ Typically I love to work with Graphql and Reactjs.
 }
 ```
 
+### ~/kingrayhan/.openSource
+
+```js
+{
+   "quick-crud"          : "https://github.com/graph-land/quick-crud",
+   "graphql-placeholder" : "https://graphqlplaceholder.com"
+}
+```
+
 
 ```
-readme: v0.1.1
+readme: v0.1.2
 ```
