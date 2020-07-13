@@ -10,7 +10,7 @@ My name is Rayhan and I'm a full stack web developer, Nodejs wizard. With my 8+ 
 Typically I love to work with Graphql and Reactjs.
 
 
-### ~/kingrayhan/.stacks
+### ~/kingrayhan/.stacksrc
 
 ```js
 {
