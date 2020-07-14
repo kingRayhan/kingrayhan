@@ -8,7 +8,7 @@
 
 My name is Rayhan and I'm a full stack web developer, Nodejs wizard. With my 8+ years of freelancing career, I learned a lot of modern webs developing tools and frameworks like Nestjs, Graphql, expressjs, reactjs, vuejs, webpack, grunt, sass, jsx, handlebars etc.
 
-Typically I love to work with Graphql and ⚛️ Reactjs.
+Typically I love to work with <img src="https://img.icons8.com/color/18/000000/graphql.png"/> Graphql and ⚛️ Reactjs.
 
 
 ### ~/kingrayhan/.stacks
