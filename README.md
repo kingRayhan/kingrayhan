@@ -1,4 +1,5 @@
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=kingrayhan&show_icons=true"/>](https://github.com/kingrayhan)
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingrayhan"/>](https://github.com/kingrayhan)
 
 
 ## Rayhan
@@ -44,5 +45,5 @@ Typically I love to work with ![GraphQL Logo](https://img.icons8.com/color/18/00
 
 
 ```
-readme: v0.1.5
+readme: v0.1.6
 ```
