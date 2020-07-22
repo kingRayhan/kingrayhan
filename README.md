@@ -1,3 +1,6 @@
+[<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=kingrayhan&show_icons=true&&theme=onedark"/>](https://github.com/kingrayhan)
+
+
 ## Rayhan
 
 > Founder of [TechDiary](https://www.techdiary.dev) <br/>
