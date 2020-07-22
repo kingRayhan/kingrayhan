@@ -17,7 +17,7 @@ Typically I love to work with ![GraphQL Logo](https://img.icons8.com/color/18/00
 {
   "frontend"   : ["Nextjs", "React", "Gatsby", "Vue", "Svelte", ...more],
   "mobile-app" : ["React Native", "Flutter"]
-  "backend"    : ["Nestjs", "Express", "Laravel", "Adonisjs", "Django", "Flask"...more],
+  "backend"    : ["Apollo-server", "Nestjs", "Express", "Laravel", "Adonisjs", "Django", "Flask"...more],
   "cms"        : ["Ghost", "WordPress", "Drupal", "Prestashop", "Magento", "kirby", "Strapi", "Contentful", "Shopify", "Netlify-cms"],
   "dbms"       : ["Postgres", "MySQL", "Sqlite", "MongoDB", "Array 😂"],
   "dbms-orm"   : ["Prisma", "Mongoose", "Typegoose", "TypeORM", "Sequilize", "knex"]
@@ -41,5 +41,5 @@ Typically I love to work with ![GraphQL Logo](https://img.icons8.com/color/18/00
 
 
 ```
-readme: v0.1.4
+readme: v0.1.5
 ```
