@@ -24,7 +24,7 @@ Typically I love to work with ![GraphQL Logo](https://img.icons8.com/color/18/00
   "dbms"       : ["Postgres", "MySQL", "Sqlite", "MongoDB","Redis", "Array 😂"],
   "dbms-orm"   : ["Prisma", "Mongoose", "Typegoose", "TypeORM", "Sequilize", "knex"]
   "languages"  : ["Dart", "Java", "Python", "Typescript", "Javascript", "php", "C", "C++", "Ada"],
-  "ui"         : ["Material-ui", "Styled-components", "Tailwind.css", ...more]
+  "ui"         : ["Material-ui", "Styled-components", "Tailwind.css", "Bulma" ...more]
 }
 ```
 
@@ -43,5 +43,5 @@ Typically I love to work with ![GraphQL Logo](https://img.icons8.com/color/18/00
 
 
 ```
-readme: v0.1.6
+readme: v0.2.6
 ```
