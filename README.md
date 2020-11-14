@@ -72,6 +72,12 @@ Typically I love to work with ![GraphQL Logo](https://img.icons8.com/color/18/00
 - [Javafx simple library management app](https://github.com/kingRayhan/NSU-Library)
 - [Javafx calculator](https://github.com/kingRayhan/javaCalculator) (release build and write readme)
 
+
+### ~/kingrayhan/.CookBooks
+- [Mongodb](https://mongoosecookbook.netlify.app/)
+- [sequelize](https://sequelize.netlify.app/)
+
+
 ```
-readme: v0.2.6
+readme: v0.2.7
 ```
