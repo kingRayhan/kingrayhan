@@ -84,7 +84,7 @@ Typically I love to work with ![GraphQL Logo](https://img.icons8.com/color/18/00
 ### Vanillajs Projects
 - [Keycode detector](https://github.com/kingRayhan/keycode)
 - [Js Clock](https://github.com/kingRayhan/js-clock)
-- [VanillaJS Todo](https://kingrayhan.github.io/es6-todo/) (Should write readme)
+- [VanillaJS Todo](https://github.com/kingRayhan/es6-todo)
 
 ### Electronjs Projects
 - [Electronjs markdown app](https://github.com/kingRayhan/markdownpen)
@@ -101,5 +101,5 @@ Typically I love to work with ![GraphQL Logo](https://img.icons8.com/color/18/00
 
 
 ```
-readme: v0.3.11
+readme: v0.3.12
 ```
