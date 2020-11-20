@@ -90,11 +90,14 @@ Typically I love to work with ![GraphQL Logo](https://img.icons8.com/color/18/00
 ### Close Source projects
 - [Techdiary](https://techdiary.dev) [ Build a full stack blog system based on nodejs with GraphQL and Nextjs ]
 
+### Boiler Plates
+- [Nuxt: tailwind + styled-components + twin.micro](https://github.com/kingRayhan/tailwind-with-styled-components-and-nextjs)
+
 ### ~/kingrayhan/.CookBooks
 - [Mongodb](https://mongoosecookbook.netlify.app/)
 - [sequelize](https://sequelize.netlify.app/)
 
 
 ```
-readme: v0.3.8
+readme: v0.3.9
 ```
