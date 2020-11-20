@@ -41,37 +41,54 @@ Typically I love to work with ![GraphQL Logo](https://img.icons8.com/color/18/00
 }
 ```
 
-### ~/kingrayhan/.projects
+# Projects
+
+### PHP Projects
 - [basic-php-ecommerce](https://github.com/kingRayhan/basic-php-ecommerce)
+- [Laravel blog](https://github.com/kingRayhan/larablog) (should deploy and write readme)
+- [Wordpress coundown plugin](https://github.com/kingRayhan/Easy-CountDowner)
+- [Basic php blog](https://github.com/kingRayhan/simple-php-blog) (Should deploy)
+- [Laravel basic ecommerce](https://github.com/kingRayhan/lara-ecommerce) (Should complete)
+- [Laravel + vue todo app](https://github.com/kingRayhan/kingtodo)
+- [Facebook comment box wp plugin](https://github.com/kingRayhan/Facebook-comment-box)
+
 - [Youtube downloader](https://github.com/kingRayhan/youtube-downloader-frontend) [issue occured]
 - [React context blog](https://github.com/kingRayhan/react-context-blog) [issue occured]
 - [Express.js stripe checkout](https://github.com/kingRayhan/stripe-checkout)
-- [Basic php blog](https://github.com/kingRayhan/simple-php-blog) (Should deploy)
-- [Attendence Calculator](https://github.com/kingRayhan/attendance-calculator)
-- [React note](https://github.com/kingRayhan/react-note)
-- [Nodejs Blogapi](https://github.com/kingRayhan/nodeblogapi) (should be documented)
-- [Js Clock](https://github.com/kingRayhan/js-clock)
-- [Graphql Blog api](https://github.com/kingRayhan/blog-graphql-server) (fix deploy and write readme)
-- [URL shortener app](https://github.com/kingRayhan/node-shortener) (Should Deploy and write doc)
-- [Catch of the day](https://github.com/kingRayhan/catch-of-the-day) (Should fix facebook authentication)
-- [Marked blog api](https://github.com/kingRayhan/marked-blog)
-- [React contact app](https://github.com/kingRayhan/firecontacts) (Should fix depployment error)
-- [React budget app](https://github.com/kingRayhan/react-budgetapp) (Should deploy)
-- [Quiz app](https://github.com/kingRayhan/react-quizer) (Should complete)
-- [Laravel basic ecommerce](https://github.com/kingRayhan/lara-ecommerce) (Should complete)
-- [React Stopwatch](https://github.com/kingRayhan/react-stopwatch)
-- [VanillaJS Todo](https://kingrayhan.github.io/es6-todo/) (Should write readme)
-- [React Todo](https://github.com/kingRayhan/react-todo)
-- [Laravel + vue todo app](https://github.com/kingRayhan/kingtodo)
-- [Keycode detector](https://github.com/kingRayhan/keycode)
-- [Vue webcam](https://github.com/kingRayhan/vue-selfie) (check if its actually works or now)
-- [Laravel blog](https://github.com/kingRayhan/larablog) (should deploy and write readme)
-- [Electronjs markdown app](https://github.com/kingRayhan/markdownpen)
-- [Wordpress coundown plugin](https://github.com/kingRayhan/Easy-CountDowner)
-- [Facebook comment box wp plugin](https://github.com/kingRayhan/Facebook-comment-box)
+
+### Java Projects
 - [Javafx simple library management app](https://github.com/kingRayhan/NSU-Library)
 - [Javafx calculator](https://github.com/kingRayhan/javaCalculator) (release build and write readme)
 
+### Python Projects
+- [Attendence Calculator](https://github.com/kingRayhan/attendance-calculator)
+
+### Nodejs Projects
+- [Nodejs Blogapi](https://github.com/kingRayhan/nodeblogapi) (should be documented)
+- [Graphql Blog api](https://github.com/kingRayhan/blog-graphql-server) (fix deploy and write readme)
+- [Marked blog api](https://github.com/kingRayhan/marked-blog)
+- [URL shortener app](https://github.com/kingRayhan/node-shortener) (Should Deploy and write doc)
+
+
+### React Projects
+- [React note](https://github.com/kingRayhan/react-note)
+- [Catch of the day](https://github.com/kingRayhan/catch-of-the-day) (Should fix facebook authentication)
+- [React contact app](https://github.com/kingRayhan/firecontacts) (Should fix depployment error)
+- [React budget app](https://github.com/kingRayhan/react-budgetapp) (Should deploy)
+- [Quiz app](https://github.com/kingRayhan/react-quizer) (Should complete)
+- [React Stopwatch](https://github.com/kingRayhan/react-stopwatch)
+- [React Todo](https://github.com/kingRayhan/react-todo)
+
+### Vanillajs Projects
+- [Keycode detector](https://github.com/kingRayhan/keycode)
+- [Js Clock](https://github.com/kingRayhan/js-clock)
+- [VanillaJS Todo](https://kingrayhan.github.io/es6-todo/) (Should write readme)
+
+### Electronjs Projects
+- [Electronjs markdown app](https://github.com/kingRayhan/markdownpen)
+
+### Close Source projects
+- [Techdiary](https://techdiary.dev) [ Build a full stack blog system based on nodejs with GraphQL and Nextjs ]
 
 ### ~/kingrayhan/.CookBooks
 - [Mongodb](https://mongoosecookbook.netlify.app/)
