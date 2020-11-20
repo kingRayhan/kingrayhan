@@ -41,7 +41,16 @@ Typically I love to work with ![GraphQL Logo](https://img.icons8.com/color/18/00
 }
 ```
 
-# Projects
+<center>
+  <h1>😎😍 Projects 🥰🤗</h1>
+</center>
+
+### Nodejs Projects
+- [Stripe Checkout](https://github.com/kingRayhan/stripe-checkout)
+- [Nodejs Blogapi](https://github.com/kingRayhan/nodeblogapi) (should be documented)
+- [Graphql Blog api](https://github.com/kingRayhan/blog-graphql-server) (fix deploy and write readme)
+- [Marked blog api](https://github.com/kingRayhan/marked-blog)
+- [URL shortener app](https://github.com/kingRayhan/node-shortener) (Should Deploy and write doc)
 
 ### PHP Projects
 - [basic-php-ecommerce](https://github.com/kingRayhan/basic-php-ecommerce)
@@ -52,10 +61,6 @@ Typically I love to work with ![GraphQL Logo](https://img.icons8.com/color/18/00
 - [Laravel + vue todo app](https://github.com/kingRayhan/kingtodo)
 - [Facebook comment box wp plugin](https://github.com/kingRayhan/Facebook-comment-box)
 
-- [Youtube downloader](https://github.com/kingRayhan/youtube-downloader-frontend) [issue occured]
-- [React context blog](https://github.com/kingRayhan/react-context-blog) [issue occured]
-- [Express.js stripe checkout](https://github.com/kingRayhan/stripe-checkout)
-
 ### Java Projects
 - [Javafx: simple library management app](https://github.com/kingRayhan/NSU-Library)
 - [Javafx: calculator](https://github.com/kingRayhan/javaCalculator) (release build and write readme)
@@ -63,14 +68,6 @@ Typically I love to work with ![GraphQL Logo](https://img.icons8.com/color/18/00
 
 ### Python Projects
 - [Attendence Calculator](https://github.com/kingRayhan/attendance-calculator)
-
-### Nodejs Projects
-- [Stripe Checkout](https://github.com/kingRayhan/stripe-checkout)
-- [Nodejs Blogapi](https://github.com/kingRayhan/nodeblogapi) (should be documented)
-- [Graphql Blog api](https://github.com/kingRayhan/blog-graphql-server) (fix deploy and write readme)
-- [Marked blog api](https://github.com/kingRayhan/marked-blog)
-- [URL shortener app](https://github.com/kingRayhan/node-shortener) (Should Deploy and write doc)
-
 
 ### React Projects
 - [React note](https://github.com/kingRayhan/react-note)
@@ -80,6 +77,8 @@ Typically I love to work with ![GraphQL Logo](https://img.icons8.com/color/18/00
 - [Quiz app](https://github.com/kingRayhan/react-quizer) (Should complete)
 - [React Stopwatch](https://github.com/kingRayhan/react-stopwatch)
 - [React Todo](https://github.com/kingRayhan/react-todo)
+- [Youtube downloader](https://github.com/kingRayhan/youtube-downloader-frontend) [issue occured]
+- [React context blog](https://github.com/kingRayhan/react-context-blog) [issue occured]
 
 ### Vanillajs Projects
 - [Keycode detector](https://github.com/kingRayhan/keycode)
