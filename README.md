@@ -16,7 +16,7 @@ Typically I love to work with ![GraphQL Logo](https://img.icons8.com/color/18/00
 
 ```js
 {
-  "frontend"   : ["Nextjs", "React", "Gatsby", "Vue", "Svelte", ...more],
+  "frontend"   : ["Nextjs", "Nuxtjs", "React", "Gatsby", "Vue", "Svelte", ...more],
   "mobile-app" : ["React Native", "Flutter"]
   "backend"    : ["Apollo-server", "Nestjs", "Express", "Laravel", "Adonisjs", "Django", "Flask"...more],
   "cms"        : ["Ghost", "WordPress", "Drupal", "Prestashop", "Magento", "kirby", "Strapi", "Contentful", "Shopify", "Netlify-cms"],
