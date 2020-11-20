@@ -57,8 +57,9 @@ Typically I love to work with ![GraphQL Logo](https://img.icons8.com/color/18/00
 - [Express.js stripe checkout](https://github.com/kingRayhan/stripe-checkout)
 
 ### Java Projects
-- [Javafx simple library management app](https://github.com/kingRayhan/NSU-Library)
-- [Javafx calculator](https://github.com/kingRayhan/javaCalculator) (release build and write readme)
+- [Javafx: simple library management app](https://github.com/kingRayhan/NSU-Library)
+- [Javafx: calculator](https://github.com/kingRayhan/javaCalculator) (release build and write readme)
+- [Javafx: JavaFXFileCompressor](https://github.com/kingRayhan/JavaFXFileCompressor)
 
 ### Python Projects
 - [Attendence Calculator](https://github.com/kingRayhan/attendance-calculator)
@@ -99,5 +100,5 @@ Typically I love to work with ![GraphQL Logo](https://img.icons8.com/color/18/00
 
 
 ```
-readme: v0.3.9
+readme: v0.3.10
 ```
