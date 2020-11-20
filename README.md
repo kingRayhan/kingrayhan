@@ -63,7 +63,7 @@ Typically I love to work with ![GraphQL Logo](https://img.icons8.com/color/18/00
 - [VanillaJS Todo](https://kingrayhan.github.io/es6-todo/) (Should write readme)
 - [React Todo](https://github.com/kingRayhan/react-todo)
 - [Laravel + vue todo app](https://github.com/kingRayhan/kingtodo)
-- [Keycode detector](https://github.com/kingRayhan/keycode) (Update readme)
+- [Keycode detector](https://github.com/kingRayhan/keycode)
 - [Vue webcam](https://github.com/kingRayhan/vue-selfie) (check if its actually works or now)
 - [Laravel blog](https://github.com/kingRayhan/larablog) (should deploy and write readme)
 - [Electronjs markdown app](https://github.com/kingRayhan/markdownpen)
@@ -79,5 +79,5 @@ Typically I love to work with ![GraphQL Logo](https://img.icons8.com/color/18/00
 
 
 ```
-readme: v0.2.7
+readme: v0.2.8
 ```
