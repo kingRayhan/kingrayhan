@@ -41,9 +41,9 @@ Typically I love to work with ![GraphQL Logo](https://img.icons8.com/color/18/00
 }
 ```
 
-<center>
+<p align="center">
   <h1>😎😍 Projects 🥰🤗</h1>
-</center>
+</p>
 
 ### Nodejs Projects
 - [Stripe Checkout](https://github.com/kingRayhan/stripe-checkout)
