@@ -48,7 +48,7 @@ Typically I love to work with ![GraphQL Logo](https://img.icons8.com/color/18/00
 - [Nodejs Blogapi](https://github.com/kingRayhan/nodeblogapi) (should be documented)
 - [Graphql Blog api](https://github.com/kingRayhan/blog-graphql-server) (fix deploy and write readme)
 - [Marked blog api](https://github.com/kingRayhan/marked-blog)
-- [URL shortener app](https://github.com/kingRayhan/node-shortener) (Should Deploy and write doc)
+- [URL shortener app](https://github.com/kingRayhan/node-shortener)
 
 ### PHP Projects
 - [basic-php-ecommerce](https://github.com/kingRayhan/basic-php-ecommerce)
