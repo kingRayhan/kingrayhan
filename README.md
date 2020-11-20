@@ -65,6 +65,7 @@ Typically I love to work with ![GraphQL Logo](https://img.icons8.com/color/18/00
 - [Attendence Calculator](https://github.com/kingRayhan/attendance-calculator)
 
 ### Nodejs Projects
+- [Stripe Checkout](https://github.com/kingRayhan/stripe-checkout)
 - [Nodejs Blogapi](https://github.com/kingRayhan/nodeblogapi) (should be documented)
 - [Graphql Blog api](https://github.com/kingRayhan/blog-graphql-server) (fix deploy and write readme)
 - [Marked blog api](https://github.com/kingRayhan/marked-blog)
@@ -100,5 +101,5 @@ Typically I love to work with ![GraphQL Logo](https://img.icons8.com/color/18/00
 
 
 ```
-readme: v0.3.10
+readme: v0.3.11
 ```
