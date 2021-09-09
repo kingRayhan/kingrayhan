@@ -12,6 +12,10 @@ My name is Rayhan and I'm a full stack web developer, Nodejs wizard. With my 8+ 
 
 Typically I love to work with ![GraphQL Logo](https://img.icons8.com/color/18/000000/graphql.png) Graphql and ![React Logo](https://img.icons8.com/office/16/000000/react.png) Reactjs.
 
+<div style="display: flex;">
+  <a align="bottom" href="https://github.com/kingRayhan/kingrayhan/raw/master/Md.Raihan-Resume.pdf" download>Download Resume </a>
+  <img align="top" src="https://img.icons8.com/windows/32/000000/download--v1.png"/>
+</div>
 
 ### ~/kingrayhan/.stacks
 
