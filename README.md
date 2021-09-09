@@ -50,23 +50,23 @@ Typically I love to work with ![GraphQL Logo](https://img.icons8.com/color/18/00
 
 ### Nodejs Projects
 - [Stripe Checkout](https://github.com/kingRayhan/stripe-checkout)
-- [Nodejs Blogapi](https://github.com/kingRayhan/nodeblogapi) (should be documented)
-- [Graphql Blog api](https://github.com/kingRayhan/blog-graphql-server) (fix deploy and write readme)
+- [Nodejs Blogapi](https://github.com/kingRayhan/nodeblogapi) (TODO: should be documented)
+- [Graphql Blog api](https://github.com/kingRayhan/blog-graphql-server) (TODO: fix deploy and write readme)
 - [Marked blog api](https://github.com/kingRayhan/marked-blog)
 - [URL shortener app](https://github.com/kingRayhan/node-shortener)
 
 ### PHP Projects
 - [basic-php-ecommerce](https://github.com/kingRayhan/basic-php-ecommerce)
-- [Laravel blog](https://github.com/kingRayhan/larablog) (should deploy and write readme)
+- [Laravel blog](https://github.com/kingRayhan/larablog) (TODO: should deploy and write readme)
 - [Wordpress coundown plugin](https://github.com/kingRayhan/Easy-CountDowner)
-- [Basic php blog](https://github.com/kingRayhan/simple-php-blog) (Should deploy)
-- [Laravel basic ecommerce](https://github.com/kingRayhan/lara-ecommerce) (Should complete)
+- [Basic php blog](https://github.com/kingRayhan/simple-php-blog) (TODO: Should deploy)
+- [Laravel basic ecommerce](https://github.com/kingRayhan/lara-ecommerce) (TODO: Should complete)
 - [Laravel + vue todo app](https://github.com/kingRayhan/kingtodo)
 - [Facebook comment box wp plugin](https://github.com/kingRayhan/Facebook-comment-box)
 
 ### Java Projects
 - [Javafx: simple library management app](https://github.com/kingRayhan/NSU-Library)
-- [Javafx: calculator](https://github.com/kingRayhan/javaCalculator) (release build and write readme)
+- [Javafx: calculator](https://github.com/kingRayhan/javaCalculator) (TODO: release build and write readme)
 - [Javafx: JavaFXFileCompressor](https://github.com/kingRayhan/JavaFXFileCompressor)
 
 ### Python Projects
@@ -74,10 +74,10 @@ Typically I love to work with ![GraphQL Logo](https://img.icons8.com/color/18/00
 
 ### React Projects
 - [React note](https://github.com/kingRayhan/react-note)
-- [Catch of the day](https://github.com/kingRayhan/catch-of-the-day) (Should fix facebook authentication)
-- [React contact app](https://github.com/kingRayhan/firecontacts) (Should fix depployment error)
-- [React budget app](https://github.com/kingRayhan/react-budgetapp) (Should deploy)
-- [Quiz app](https://github.com/kingRayhan/react-quizer) (Should complete)
+- [Catch of the day](https://github.com/kingRayhan/catch-of-the-day) (TODO: Should fix facebook authentication)
+- [React contact app](https://github.com/kingRayhan/firecontacts) (TODO: Should fix depployment error)
+- [React budget app](https://github.com/kingRayhan/react-budgetapp) (TODO: Should deploy)
+- [Quiz app](https://github.com/kingRayhan/react-quizer) (TODO: Should complete)
 - [React Stopwatch](https://github.com/kingRayhan/react-stopwatch)
 - [React Todo](https://github.com/kingRayhan/react-todo)
 - [Youtube downloader](https://github.com/kingRayhan/youtube-downloader-frontend) [issue occured]
@@ -103,5 +103,5 @@ Typically I love to work with ![GraphQL Logo](https://img.icons8.com/color/18/00
 
 
 ```
-readme: v0.3.12
+readme: v0.3.13
 ```
