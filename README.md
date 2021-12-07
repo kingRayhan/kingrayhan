@@ -36,6 +36,7 @@ Typically I love to work with ![GraphQL Logo](https://img.icons8.com/color/18/00
 
 ```js
 {
+   "reactjs-visibility"  : "https://www.npmjs.com/package/reactjs-visibility",
    "quick-crud"          : "https://github.com/graph-land/quick-crud",
    "graphql-placeholder" : "https://graphqlplaceholder.com",
    "bnnum"               : "https://www.npmjs.com/package/bnnum",
@@ -103,5 +104,5 @@ Typically I love to work with ![GraphQL Logo](https://img.icons8.com/color/18/00
 
 
 ```
-readme: v0.3.13
+readme: v0.3.14
 ```
