@@ -36,6 +36,7 @@ Typically I love to work with ![GraphQL Logo](https://img.icons8.com/color/18/00
 
 ```js
 {
+   "simple-solc"         : "https://www.npmjs.com/package/simple-solc",
    "reactjs-visibility"  : "https://www.npmjs.com/package/reactjs-visibility",
    "quick-crud"          : "https://github.com/graph-land/quick-crud",
    "graphql-placeholder" : "https://graphqlplaceholder.com",
