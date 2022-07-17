@@ -15,4 +15,5 @@
             user_name: kingrayhan
             # Text on contribution graph 
             text: Rayhan
+            svg_file_name: contribution_graph.svg
        - uses: jasineri/simple-push-action@v1
