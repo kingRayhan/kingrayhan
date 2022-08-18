@@ -57,6 +57,10 @@ Frontend and Backend.
 
 <h1 align="center">😎😍 Projects 🥰🤗</h1>
 
+### Mobile Apps
+- [BMI Calculator](https://github.com/kingRayhan/flutter_bmi_calculator)
+- 
+
 ### Nodejs Projects
 - [Stripe Checkout](https://github.com/kingRayhan/stripe-checkout)
 - [Nodejs Blogapi](https://github.com/kingRayhan/nodeblogapi) (TODO: should be documented)
