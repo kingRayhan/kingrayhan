@@ -24,6 +24,8 @@ Frontend and Backend.
   <img align="top" src="https://img.icons8.com/windows/32/000000/download--v1.png"/>
 </div>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kingrayhan&langs_count=20&theme=blue-green&layout=compact&hide=html)
+
 ### ~/kingrayhan/.stacks
 
 ```js
