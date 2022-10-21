@@ -59,6 +59,9 @@ Frontend and Backend.
 
 <h1 align="center">😎😍 Projects 🥰🤗</h1>
 
+### Boilar Plates
+- [Rext](https://github.com/kingRayhan/rexy) - A bulletproof nest scaffolding
+
 ### Mobile Apps
 - [BMI Calculator](https://github.com/kingRayhan/flutter_bmi_calculator)
 - [Xylophone 🎹](https://github.com/kingRayhan/flutter_xylo_phone)
