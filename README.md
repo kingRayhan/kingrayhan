@@ -1,6 +1,6 @@
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=kingrayhan&show_icons=true"/>](https://github.com/kingrayhan)
 
-## Rayhan
+### Rayhan
 
 > Founder of [TechDiary](https://www.techdiary.dev) <br/>
 > Fullstack Engineer at [Newsrme](https://newsrme.com/) <br/>
