@@ -1,29 +1,16 @@
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=kingrayhan&show_icons=true"/>](https://github.com/kingrayhan)
 
 ### Rayhan
 
-> Founder of [TechDiary](https://www.techdiary.dev) <br/>
+> CTO at [Graphland](https://www.graphland.dev) <br/>
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/kingrayhan)   [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/king_rayhan)   [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/kingrayhan2) [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/3705299/king-rayhan)
 
 
-My name is Rayhan and I'm a full stack web developer, Nodejs wizard. With my 8+ years of freelancing career, I learned a lot of modern webs developing tools and frameworks like Nestjs, Graphql, expressjs, reactjs, vuejs, webpack, grunt, sass, jsx, handlebars etc.
+👨‍💻 I specialize in building modern web apps using 🔥 React, 🚀 Node.js, 🔮 GraphQL & 🍃 MongoDB. Let's create or revamp your website with new 🎉 features. 📲 Contact me to get started!
 
-Typically I love to work with ![GraphQL Logo](https://img.icons8.com/color/18/000000/graphql.png) Graphql and ![React Logo](https://img.icons8.com/office/16/000000/react.png) Reactjs.
+  <a align="bottom" href="https://drive.google.com/file/d/1rYPD28yv2i8Gk9REvw5rzk4_D8LsseUD/view?pli=1" download>My Resume</a> <br />
+  <a align="bottom" href="https://cal.com/rayhan-dev/45min" download>Schedule a meeting</a>
 
-Problem solving always gives me a rush of adrenaline, which is
-why I chose computer engineering. The reason I'm saying this
-because I have changed stack for Techdiary about 3 times both
-Frontend and Backend.
-
-
-
-<div style="display: flex;">
-  <a align="bottom" href="https://github.com/kingRayhan/kingrayhan/raw/master/Md.Raihan-Resume.pdf" download>Download Resume </a>
-  <img align="top" src="https://img.icons8.com/windows/32/000000/download--v1.png"/>
-</div>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kingrayhan&langs_count=20&theme=blue-green&layout=compact&hide=html)
 
 ### ~/kingrayhan/.stacks
 
@@ -44,6 +31,7 @@ Frontend and Backend.
 
 ```js
 {
+   "react-video-player"  : "https://www.npmjs.com/package/@graphland/react-video-player",
    "simple-solc"         : "https://www.npmjs.com/package/simple-solc",
    "reactjs-visibility"  : "https://www.npmjs.com/package/reactjs-visibility",
    "quick-crud"          : "https://github.com/graph-land/quick-crud",
@@ -120,5 +108,5 @@ Frontend and Backend.
 
 
 ```
-readme: v0.3.15
+readme: v0.4.15
 ```
