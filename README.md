@@ -106,7 +106,7 @@
 - [Mongodb](https://mongoosecookbook.netlify.app/)
 - [sequelize](https://sequelize.netlify.app/)
 - [RabbitMQ](https://github.com/kingRayhan/rabbitmq-playground)
-
+- [Pusher](https://github.com/kingRayhan/pusher-playground)
 
 ```
 readme: v0.4.15
