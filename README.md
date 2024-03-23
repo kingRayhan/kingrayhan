@@ -102,9 +102,10 @@
 ### Boiler Plates
 - [Nuxt: tailwind + styled-components + twin.micro](https://github.com/kingRayhan/tailwind-with-styled-components-and-nextjs)
 
-### ~/kingrayhan/.CookBooks
+### ~/kingrayhan/.CookBooks/playground
 - [Mongodb](https://mongoosecookbook.netlify.app/)
 - [sequelize](https://sequelize.netlify.app/)
+- [RabbitMQ](https://github.com/kingRayhan/rabbitmq-playground)
 
 
 ```
