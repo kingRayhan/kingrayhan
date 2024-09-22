@@ -111,6 +111,7 @@
   ### ~/kingrayhan/.poc
 - https://github.com/kingRayhan/poc.rabbitmq.node
 - https://github.com/kingRayhan/poc.nest-microservices-rabbitmq
+- https://github.com/kingRayhan/poc.nestjs-bullmq-queue
 - https://github.com/kingRayhan/poc.s3.nodejs
 - https://github.com/kingRayhan/poc.mongoose-deep-population
 - https://github.com/kingRayhan/poc.kinde-org-nextjs
