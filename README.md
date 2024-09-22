@@ -110,6 +110,7 @@
 
   ### ~/kingrayhan/.poc
 - https://github.com/kingRayhan/poc.rabbitmq.node
+- https://github.com/kingRayhan/poc.s3.nodejs
 
 ```
 readme: v0.4.15
