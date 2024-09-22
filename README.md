@@ -102,15 +102,23 @@
 ### Boiler Plates
 - [Nuxt: tailwind + styled-components + twin.micro](https://github.com/kingRayhan/tailwind-with-styled-components-and-nextjs)
 
-### ~/kingrayhan/.CookBooks/playground
+### ~/kingrayhan/.CookBooks
 - [Mongodb](https://mongoosecookbook.netlify.app/)
 - [sequelize](https://sequelize.netlify.app/)
-- [RabbitMQ](https://github.com/kingRayhan/rabbitmq-playground)
-- [Pusher](https://github.com/kingRayhan/pusher-playground)
+- [Firebase Auth](https://github.com/kingRayhan/fireauth-9-cookbook)
+- [Firestore](https://github.com/kingRayhan/firestore-9-cookbook)
 
   ### ~/kingrayhan/.poc
 - https://github.com/kingRayhan/poc.rabbitmq.node
+- https://github.com/kingRayhan/poc.nest-microservices-rabbitmq
 - https://github.com/kingRayhan/poc.s3.nodejs
+- https://github.com/kingRayhan/poc.mongoose-deep-population
+- https://github.com/kingRayhan/poc.kinde-org-nextjs
+- https://github.com/kingRayhan/poc.kinde-nextjs
+- https://github.com/kingRayhan/poc.pusher-soketi-nextjs
+- https://github.com/kingRayhan/poc.serverless-framework
+- https://github.com/kingRayhan/poc.nestjs-defer
+- https://github.com/kingRayhan/poc.express.jwt-refresh-token
 
 ```
 readme: v0.4.15
