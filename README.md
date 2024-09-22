@@ -108,6 +108,9 @@
 - [RabbitMQ](https://github.com/kingRayhan/rabbitmq-playground)
 - [Pusher](https://github.com/kingRayhan/pusher-playground)
 
+  ### ~/kingrayhan/.poc
+- https://github.com/kingRayhan/poc.rabbitmq.node
+
 ```
 readme: v0.4.15
 ```
