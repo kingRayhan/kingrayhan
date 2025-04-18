@@ -31,6 +31,7 @@
 
 ```js
 {
+   "sqlkit"              : "https://www.npmjs.com/package/sqlkit"
    "react-video-player"  : "https://www.npmjs.com/package/@graphland/react-video-player",
    "simple-solc"         : "https://www.npmjs.com/package/simple-solc",
    "reactjs-visibility"  : "https://www.npmjs.com/package/reactjs-visibility",
@@ -123,5 +124,5 @@
 - https://github.com/kingRayhan/poc.drizzle
 
 ```
-readme: v0.4.15
+readme: v0.4.16
 ```
