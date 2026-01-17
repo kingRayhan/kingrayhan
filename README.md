@@ -53,6 +53,7 @@
 
   ### ~/kingrayhan/.poc
 - https://github.com/kingRayhan/hyperdx-nestjs-poc
+- https://github.com/kingRayhan/hyperdx-hono-poc
 - https://github.com/kingRayhan/poc.rabbitmq.node
 - https://github.com/kingRayhan/poc.nest-microservices-rabbitmq
 - https://github.com/kingRayhan/poc.nestjs-bullmq-queue
@@ -67,5 +68,5 @@
 - https://github.com/kingRayhan/poc.drizzle
 
 ```
-readme: v0.5.16
+readme: v0.6.16
 ```
