@@ -1,15 +1,69 @@
+# Rayhan
 
-### Rayhan
+**CTO at [Graphland](https://www.graphland.dev)**
 
-> CTO at [Graphland](https://www.graphland.dev) <br/>
+**I build software that solves real business problems.**
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/kingrayhan)   [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/king_rayhan)   [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/kingrayhan2) [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/3705299/king-rayhan)
+From idea to production, I design and ship systems that are scalable, reliable, and built to last.
+
+[View Resume](https://drive.google.com/file/d/1rYPD28yv2i8Gk9REvw5rzk4_D8LsseUD/view) • [Book a Call](https://cal.com/rayhan-dev/45min)
 
 
-Full-stack developer with 8+ years of experience in frontend and backend development. Founder and CEO of Graphland, a company specialized in building custom technology solutions for startups and growing businesses. A solution maker who focuses on real business problems and turns them into practical, scalable software products. Experienced in building web and SaaS applications using Node.js, Python, PHP, React, Vue, Nuxt, GraphQL, gRPC, and microservices. Skilled in designing clean user interfaces, developing RESTful and real-time APIs, and working with databases such as PostgreSQL and MongoDB. Highly adaptive, continuously learning, and actively contributing to open source while delivering reliable, high-quality solutions.
+## What I Do
 
-  <a align="bottom" href="https://drive.google.com/file/d/1rYPD28yv2i8Gk9REvw5rzk4_D8LsseUD/view?pli=1" download>My Resume</a> <br />
-  <a align="bottom" href="https://cal.com/rayhan-dev/45min" download>Schedule a meeting</a>
+I work with companies to turn ideas into production-ready systems.
+
+Together with my team, we:
+
+* Build scalable SaaS platforms
+* Design clean, maintainable architectures
+* Develop fast and reliable user interfaces
+* Create robust APIs and backend systems
+* Ensure performance and long-term stability
+
+I focus on outcomes, not just code.
+
+---
+
+## How I Work
+
+Clear thinking, solid execution.
+
+* System-first approach
+* Built for real usage, not demos
+* Maintainability from day one
+* Fast iteration with structure
+
+I lead the architecture and direction, while my team ensures consistent delivery.
+
+---
+
+## Tech Stack
+
+```js id="sjwz05"
+{
+  frontend: ["Nextjs", "Nuxtjs", "React", "Vue", "Svelte"],
+  mobile: ["React Native", "Flutter"],
+  backend: ["Nestjs", "Express", "Apollo Server", "Laravel", "Django", "Flask"],
+  databases: ["Postgres", "MongoDB", "MySQL", "Redis"],
+  orm: ["Prisma", "Mongoose", "TypeORM", "Knex"],
+  languages: ["TypeScript", "JavaScript", "Python", "PHP", "Java"],
+  ui: ["Tailwind", "Material UI", "Styled Components"]
+}
+```
+
+---
+
+## Experiments
+
+Where we test ideas and push boundaries:
+
+* microservices and queues
+* real-time systems
+* authentication and OAuth
+* cloud and infrastructure
+
+---
 
 
 ### ~/kingrayhan/.stacks
@@ -26,6 +80,7 @@ Full-stack developer with 8+ years of experience in frontend and backend develop
   "ui"         : ["Material-ui", "Styled-components", "Tailwind.css", "Bulma" ...more]
 }
 ```
+
 
 ### ~/kingrayhan/.openSource
 
@@ -44,6 +99,8 @@ Full-stack developer with 8+ years of experience in frontend and backend develop
    "mini-php"            : "https://github.com/kingRayhan/mini-php"
 }
 ```
+
+
 
 ### ~/kingrayhan/.CookBooks
 - [Mongodb](https://mongoosecookbook.netlify.app/)
